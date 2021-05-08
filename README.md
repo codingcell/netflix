@@ -1,2 +1,9 @@
 # Netflix
+
+👋 Hi, I’m @codingcell
 This Project Is Clone Of Netflix Home Page. This Project Is Made In Html , Css , Javascript and Bootstrap. 
+
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 This Project Is Under Maintanence Please Wait.
